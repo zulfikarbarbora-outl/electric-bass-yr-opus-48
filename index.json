@@ -1,0 +1,291 @@
+{
+  "library": "electric-bass-YR",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/electric-bass-YR",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/electric-bass-yr-opus-48",
+  "branch": "main",
+  "fileCount": 25,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/",
+  "files": [
+    {
+      "file": "E2.opus",
+      "name": "E2.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/E2.opus",
+      "size": 10374,
+      "note": "E2",
+      "midiNote": 40,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_A.opus",
+      "name": "finger_A.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_A.opus",
+      "size": 19910,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_As.opus",
+      "name": "finger_As.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_As.opus",
+      "size": 20053,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_B.opus",
+      "name": "finger_B.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_B.opus",
+      "size": 18724,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_C.opus",
+      "name": "finger_C.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_C.opus",
+      "size": 17840,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_Cs.opus",
+      "name": "finger_Cs.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_Cs.opus",
+      "size": 16112,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_D.opus",
+      "name": "finger_D.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_D.opus",
+      "size": 13797,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_Ds.opus",
+      "name": "finger_Ds.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_Ds.opus",
+      "size": 31321,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_E.opus",
+      "name": "finger_E.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_E.opus",
+      "size": 28709,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_F.opus",
+      "name": "finger_F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_F.opus",
+      "size": 18120,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "finger_Fs.opus",
+      "name": "finger_Fs.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_Fs.opus",
+      "size": 22430,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_G.opus",
+      "name": "finger_G.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_G.opus",
+      "size": 25474,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "finger_Gs.opus",
+      "name": "finger_Gs.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/finger_Gs.opus",
+      "size": 21231,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_A.opus",
+      "name": "pick_A.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_A.opus",
+      "size": 18938,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_As.opus",
+      "name": "pick_As.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_As.opus",
+      "size": 16409,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_B.opus",
+      "name": "pick_B.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_B.opus",
+      "size": 15133,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_C.opus",
+      "name": "pick_C.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_C.opus",
+      "size": 14735,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_Cs.opus",
+      "name": "pick_Cs.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_Cs.opus",
+      "size": 15150,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_D.opus",
+      "name": "pick_D.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_D.opus",
+      "size": 14562,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_Ds.opus",
+      "name": "pick_Ds.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_Ds.opus",
+      "size": 13588,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_E.opus",
+      "name": "pick_E.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_E.opus",
+      "size": 25290,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_F.opus",
+      "name": "pick_F.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_F.opus",
+      "size": 21243,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": "f",
+      "roundRobin": null
+    },
+    {
+      "file": "pick_Fs.opus",
+      "name": "pick_Fs.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_Fs.opus",
+      "size": 21358,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_G.opus",
+      "name": "pick_G.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_G.opus",
+      "size": 15727,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "pick_Gs.opus",
+      "name": "pick_Gs.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-yr-opus-48/main/pick_Gs.opus",
+      "size": 14823,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "40": [
+      "E2.opus"
+    ]
+  }
+}
