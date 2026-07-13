@@ -1,0 +1,54 @@
+// === Preview SFZ (Opus 48k) ===
+// Auto-generated from PickedBassYR 20190930.sfz
+// Original: https://raw.githubusercontent.com/zulfikarbarbora-outl/electric-bass-YR/main/PickedBassYR%2020190930.sfz
+// All sample= paths now point to .opus files in this repo
+
+//+ Name: Picked Bass YR
+//+ Date: 2019-09-30
+//+ URL: http://freepats.zenvoid.org/ElectricGuitar/clean-electric-bass.html#BassYR
+
+<group>
+ampeg_decay=0.5
+ampeg_release=0.3
+
+<region>
+ lokey=26 hikey=28
+ pitch_keycenter=28
+ sample=samples/pick/E.opus
+<region>
+ key=29
+ sample=samples/pick/F.opus
+<region>
+ key=30
+ sample=samples/pick/F#.opus
+<region>
+ key=31
+ sample=samples/pick/G.opus
+<region>
+ key=32
+ sample=samples/pick/G#.opus
+<region>
+ key=33
+ sample=samples/pick/A.opus
+<region>
+ key=34
+ sample=samples/pick/A#.opus
+<region>
+ key=35
+ sample=samples/pick/B.opus
+<region>
+ key=36
+ sample=samples/pick/C.opus
+<region>
+ key=37
+ sample=samples/pick/C#.opus
+<region>
+ key=38
+ sample=samples/pick/D.opus
+<region>
+ key=39
+ sample=samples/pick/D#.opus
+<region>
+ lokey=40 hikey=46
+ pitch_keycenter=40
+ sample=samples/pick/E2.opus
